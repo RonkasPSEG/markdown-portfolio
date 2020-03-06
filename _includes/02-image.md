@@ -1,1 +1,1 @@
-![Image of Brown Bunny(https://octodex.github.com/images/yaktocat.png)
+![Image of Brown Bunny](https://octodex.github.com/images/yaktocat.png)
